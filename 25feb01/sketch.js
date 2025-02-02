@@ -1,6 +1,7 @@
 function setup() {
-  createCanvas(400, 400);
 
+  const myCanvas = createCanvas(800, 800);
+  myCanvas.parent("box");
 }
 
 function draw() {
