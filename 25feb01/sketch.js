@@ -18,4 +18,5 @@ function draw() {
     strokeWeight(4);
     point(v.x, v.y);
   }
+  
 }
